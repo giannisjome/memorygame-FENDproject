@@ -5,12 +5,25 @@
 * [Instructions](#instructions)
 * [Contributing](#contributing)
 
-## Instructions
+## About
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+This is a Memory Game project. It is the third project of the FEND nanodegree programm which is offered from _Udacity_.
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Instructions 
 
+This a Memory game. Click on a card to open. Try to guess where is the same card on the deck and click  it , in order to open. 
+If your cards match , they will be matched and it will be displayed with a green backgreound.
+If your cards doesn't match , they will close and will have to guess again.
+If you will match all the cards, you will win the game.
+Your score is divided in three levels:
+-3 stars which means an excellant score
+-2 stars which means a very good score
+-1 star which means not a very good score
+But be careful...Your star rating system decreases if you spend too many clicks without finding the right cards.
+Can you match all cards with the best score?
+
+**Are you ready?**
+**Let's start play now!**
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
 ## Contributing
