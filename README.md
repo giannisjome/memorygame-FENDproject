@@ -27,7 +27,9 @@ But be careful...Your star rating system decreases if you spend too many clicks 
 Can you match all cards with the best score?
 
 **Are you ready?**
+
 **Let's start play now!**
+
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
 ## Contributing
