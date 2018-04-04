@@ -4,7 +4,7 @@
 
 * [About](#About)
 * [Instructions](#instructions)
-* [Code dependencies] (#dependencies)
+* [Code dependencies](#Code dependencies)
 * [Contributing](#contributing)
 
 ## About
@@ -34,7 +34,7 @@ Can you match all cards with the best score?
 
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
-## Dependencies
+## Code dependencies
 
 The project is consisted from these files:
 * index.html- This file is for html code
