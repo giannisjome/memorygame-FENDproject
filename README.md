@@ -17,11 +17,11 @@ If your cards doesn't match , they will close and will have to guess again.
 If you will match all the cards, you will win the game.
 Your score is divided in three levels:
 
-*3 stars which means an excellant score
+* 3 stars which means an excellant score
 
-*2 stars which means a very good score
+* 2 stars which means a very good score
 
-*1 star which means not a very good score
+* 1 star which means not a very good score
 
 But be careful...Your star rating system decreases if you spend too many clicks without finding the right cards.
 Can you match all cards with the best score?
