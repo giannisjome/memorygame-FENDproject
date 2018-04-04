@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Matching Game</title>
+    <meta name="description" content="">
+    <link rel="stylesheet prefetch" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <link rel="stylesheet prefetch" href="https://fonts.googleapis.com/css?family=Coda">
+    <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Matching Game</h1>
+        </header>
+
+        <section class="score-panel">
+        	<ul class="stars">
+        		<li><i class="fa fa-star"></i></li>
+        		<li><i class="fa fa-star"></i></li>
+        		<li><i class="fa fa-star"></i></li>
+        	</ul>
+
+        	<span class="moves"></span> Moves
+            <span id="minute"><span id="min">0</span> minutes</span>
+            <span id="seconds" class="seconds">0</span> Seconds
+            <div class="restart">
+        		<i class="fa fa-repeat"></i>
+        	</div>
+        </section>
+
+        <ul class="deck">
+            <li class="card">
+                <i ></i>
+            </li>
+            <li class="card">
+                <i ></i>
+            </li>
+            <li class="card">
+                <i ></i>
+            </li>
+            <li class="card">
+                <i ></i>
+            </li>
+            <li class="card">
+                <i ></i>
+            </li>
+            <li class="card">
+                <i ></i>
+            </li>
+            <li class="card">
+                <i></i>
+            </li>
+            <li class="card">
+                <i ></i>
+            </li>
+            <li class="card">
+                <i ></i>
+            </li>
+            <li class="card">
+                <i ></i>
+            </li>
+            <li class="card">
+                <i ></i>
+            </li>
+            <li class="card">
+                <i ></i>
+            </li>
+            <li class="card ">
+                <i ></i>
+            </li>
+            <li class="card">
+                <i></i>
+            </li>
+            <li class="card">
+                <i></i>
+            </li>
+            <li class="card">
+                <i ></i>
+            </li>
+        </ul>
+        <div id ="message">
+					<h1>You won! Well done!</h1>
+					<p>You have finished the game with <span id="MovesTotal">0</span> Moves and <span id ="StarsRemained">0</span> Star.</p>
+					<p>Your time: <span id="Time">00</span></p>
+					<p>Do you want to play again?</p>
+					<button id="newgame">YES</button>
+					<button id="no">NO</button>
+			
+		</div>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
