@@ -4,7 +4,7 @@
 
 * [About](#About)
 * [Instructions](#instructions)
-* Code dependencies (#Code dependencies)
+* [Code dependencies] (#Code dependencies)
 * [Contributing](#contributing)
 
 ## About
