@@ -2,7 +2,9 @@
 
 ## Table of Contents
 
+* [About](#About)
 * [Instructions](#instructions)
+* Code dependencies (#Code dependencies)
 * [Contributing](#contributing)
 
 ## About
@@ -31,6 +33,20 @@ Can you match all cards with the best score?
 **Let's start play now!**
 
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+
+##Code dependencies
+
+The project is consisted from these files:
+* index.html- This file is for html code
+
+* css folder- This folder contains css code. There is one file (app.css) where it is written the css code for styling the project.
+
+* js folder- This folder contains javascript code.There is one file (app.js) where it is written the javascript code for interaction with the user.
+
+* img folder- This file contains all the images which used in this project. There is only one image inside of this folder (geometry2.png).
+
+* Contributing.md- This file is written in markdown language. It has useful information about contributing.
+* README.md- This file is written in markdown language. It provides all information  which are related with this project.
 
 ## Contributing
 
