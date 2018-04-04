@@ -34,7 +34,7 @@ Can you match all cards with the best score?
 
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
-##Code dependencies
+## Code dependencies
 
 The project is consisted from these files:
 * index.html- This file is for html code
